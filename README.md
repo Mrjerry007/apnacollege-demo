@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Auther - Chirag Singh
+Auther -  Mr. Chirag Singh
